@@ -122,26 +122,15 @@
   align-items: flex-start;
   justify-content: center;
 }
-.error-features {
-  flex: 0 0 auto;
-  width: 100%;
-  height: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.error-features-container {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-}
-.error-pricing {
-  flex: 0 0 auto;
-  width: 100%;
-  height: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 .error-image {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.error-image1 {
   width: 1200px;
   height: 1200px;
   object-fit: cover;
@@ -154,17 +143,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.error-faq {
-  flex: 0 0 auto;
-  width: 100%;
-  height: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.error-faq-container {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
 }
 .error-footer {
   flex: 0 0 auto;
